@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6f47f682-d1b8-4f7d-a79f-531e0dde2c29)# EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
+# EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
 
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
